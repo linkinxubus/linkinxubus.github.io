@@ -9,6 +9,7 @@ liftoff.io, 68a57150883e4b643ef2bb0a, DIRECT
 
 # Google AdMob
 google.com, pub-3327341946875923, DIRECT, f08c47fec0942fa0
+google.com, pub-3841057538135937, DIRECT, f08c47fec0942fa0
 
 # Mintegral
 mintegral.com, 58474, DIRECT

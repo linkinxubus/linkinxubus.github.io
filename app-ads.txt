@@ -19,6 +19,7 @@ ironsrc.com, 585529, DIRECT
 
 # Meta Audience Network
 facebook.com, 1178744844200939, DIRECT
+facebook.com, 828326212892278, DIRECT
 facebook.com, 604482158898943, DIRECT, c3e20eee3f780d68
 
 # Moloco

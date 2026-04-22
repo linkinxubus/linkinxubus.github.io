@@ -18,6 +18,8 @@ ironsrc.com, 585529, DIRECT
 
 # Meta Audience Network
 facebook.com, 2484701158630779, DIRECT, c3e20eee3f780d68
+facebook.com, 604482158898943, DIRECT, c3e20eee3f780d68
+facebook.com, 1628621638191254, DIRECT
 facebook.com, 1178744844200939, RESELLER, c3e20eee3f780d68
 facebook.com, 828326212892278, RESELLER, c3e20eee3f780d68
 facebook.com, 604482158898943, RESELLER, c3e20eee3f780d68

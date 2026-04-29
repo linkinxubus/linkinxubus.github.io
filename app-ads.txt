@@ -4,8 +4,9 @@
 # AppLovin
 applovin.com, 4aed4302657214ce4b1448e66d3c37a68feab6fb, DIRECT
 
-# Liftoff Monetize
+# Liftoff Monetize / Vungle
 liftoff.io, 68a57150883e4b643ef2bb0a, DIRECT
+vungle.com, 68a57150883e4b643ef2bb0a, DIRECT, c107d686becd2d77
 
 # Google AdMob
 google.com, pub-3327341946875923, DIRECT, f08c47fec0942fa0

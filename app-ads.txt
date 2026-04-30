@@ -1,5 +1,12 @@
 # app-ads.txt for Almond Party Labs
 # Format: <ad system domain>, <publisher ID>, DIRECT|RESELLER, <certification ID>
+#
+# !!! KEEP IN SYNC WITH https://www.almondparty.com/app-ads.txt !!!
+# We are mid-migration from almondparty.github.io → almondparty.com.
+# Both domains serve as marketing URLs across our portfolio until every
+# app has shipped a build with the new URL (months-long tail). Any change
+# here MUST also be applied to almondparty.com's app-ads.txt or we break
+# bidder verification on apps still pointing at the other domain.
 
 # AppLovin
 applovin.com, 4aed4302657214ce4b1448e66d3c37a68feab6fb, DIRECT
